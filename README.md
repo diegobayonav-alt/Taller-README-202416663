@@ -12,7 +12,7 @@ Imagen desde URL externa
 
 Imagen centrada
 <p align="center">
-    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+    <img src="(IMG_6358.jpg" alt="Descripción" width="500"/>
 </p>
 
 Formato de Texto
