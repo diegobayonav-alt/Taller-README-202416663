@@ -23,3 +23,9 @@ Formato de Texto
 
 ~~tachado~~
 
+
+Tablas
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Hola   | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
