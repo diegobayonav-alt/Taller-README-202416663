@@ -8,4 +8,4 @@ Imagen simple
 ![Texto alternativo](IMG_6358.jpg)
 
 Imagen desde URL externa
-![Logo]([https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg](https://github.com/diegobayonav-alt/Taller-README-202416663/blob/main/IMG_6358.jpg))
+![Logo](https://github.com/diegobayonav-alt/Taller-README-202416663/blob/main/IMG_6358.jpg))
