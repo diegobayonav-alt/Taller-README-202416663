@@ -3,6 +3,6 @@
 
 # Título principal (H1)
 
-i = 1
 
-
+Imagen simple
+![Texto alternativo](IMG_6358.jpg)
